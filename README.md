@@ -1,6 +1,6 @@
 # SIMPLE LINEAR REGRESSION ANALYSIS
 
-**Task 2:** 
+**Task 1:** 
 
 Implementation of simple linear regression analysis.
 
